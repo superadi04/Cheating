@@ -1,4 +1,1 @@
-# FrontEndAlpha
-# sakethsucks
-# WarpfusionWebsite
-# Cheating
+# Cheating Chrome Extension
